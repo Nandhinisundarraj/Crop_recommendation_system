@@ -25,5 +25,3 @@ Technologies Used
 - Scikit-learn
 - Pandas
 - Streamlit
-
-## ▶️ Run Locally
